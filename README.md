@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Sveta! 🦦
+# Hello there, I'm Sveta! 
 
 <!-- **Get in touch:** -->
 
