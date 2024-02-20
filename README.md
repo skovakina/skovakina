@@ -9,7 +9,7 @@ Hello there! 👋 I'm a dedicated and self-driven software engineer who loves ta
 ### Skills
 
 - 🔧 **Development & Programming:** JavaScript, HTML/CSS, SASS, React, Vue.js, Node.js, Express.
-- 💻 **Tools & Software:** Proficient with Adobe Creative Cloud, GitHub, Notion, Postman
+- 💻 **Tools & Software:** Figma, Adobe Creative Cloud, GitHub, Notion, Postman
 - 🌍 **Languages:** Proficient in English and a native speaker of Russian,
 
 ### Achievements
