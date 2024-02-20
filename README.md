@@ -14,8 +14,8 @@ Hello there! 👋 I'm a dedicated and self-driven software engineer who loves ta
 
 ### Achievements
 
-- **Jingle Bell Code Jam:** 1st place, December 2023 - [https://github.com/skovakina/jingle-bells-jam](Merry Mailers)
-- **Halloween Code Jam:** 2nd place, October 2023 - [https://github.com/skovakina/se_codejam_CommunityPoll](Community Poll)
+- **Jingle Bell Code Jam:** 1st place, December 2023 - [https://github.com/skovakina/jingle-bells-jam](MerryMailers)
+- **Halloween Code Jam:** 2nd place, October 2023 - [https://github.com/skovakina/se_codejam_CommunityPoll](CommunityPoll)
 
 ### Certifications
 
