@@ -3,7 +3,7 @@
 Hello there! 👋 I'm a dedicated and self-driven software engineer who loves tackling complex challenges and turning them into simple, intuitive solutions. My journey started in civil engineering, which equipped me with a unique blend of analytical and creative problem-solving skills. This background, combined with my passion for technology, has driven me to specialize in developing user-friendly interfaces using cutting-edge web technologies.
 
 📧 skovakina@gmail.com 
-💼 [https://www.linkedin.com/in/skovakina/](linkedin.com/in/skovakina/) 
+💼 https://www.linkedin.com/in/skovakina/
 📍 San Francisco, CA
 
 ### Skills
