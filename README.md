@@ -1,6 +1,6 @@
-# Hello there, I'm Svetlana! 
+# 👋 Hello there, I'm Svetlana! 
 
-Hello there! 👋 I'm a dedicated and self-driven software engineer who loves tackling complex challenges and turning them into simple, intuitive solutions. My journey started in civil engineering, which equipped me with a unique blend of analytical and creative problem-solving skills. This background, combined with my passion for technology, has driven me to specialize in developing user-friendly interfaces using cutting-edge web technologies.
+I'm a dedicated and self-driven Software Engineer with a background in civil engineering, blending technical expertise with creative problem-solving. I specialize in crafting user-friendly products using a wide range of tools, including JavaScript, React, Vue.js, and full-stack project development. As a winner of multiple coding challenges, I continuously demonstrate my commitment to learning and my ability to work under tight deadlines.
 
 📧 skovakina@gmail.com 
 💼 https://www.linkedin.com/in/skovakina/
