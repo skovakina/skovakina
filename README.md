@@ -14,7 +14,7 @@ I'm a dedicated and self-driven Software Engineer with a background in civil eng
 
 ### Achievements
 
-- **Spring Code Jam:** 1nd place, February 2024 - https://github.com/skovakina/spring-to-do
+- **Spring Code Jam:** 1st place, February 2024 - https://github.com/skovakina/spring-to-do
 - **Jingle Bell Code Jam:** 1st place, December 2023 - https://github.com/skovakina/jingle-bells-jam
 - **Halloween Code Jam:** 2nd place, October 2023 - https://github.com/skovakina/se_codejam_CommunityPoll
 
