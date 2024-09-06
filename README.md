@@ -20,7 +20,6 @@ I'm a dedicated and self-driven Software Engineer with a background in civil eng
 
 ### Certifications
 
-- **Google UX Design Specialization** (Coursera) - Focused on creating intuitive and user-friendly interfaces.
 - **Advanced CSS and Sass** (Udemy) - Enhanced styling capabilities for more visually appealing and responsive designs.
 - **The Complete JavaScript Course** (Udemy) - Covered JavaScript fundamentals to advanced concepts for seamless interactive web applications.
 
